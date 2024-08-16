@@ -19,4 +19,3 @@ apache/hadoop
 --platform=linux/arm64 zookeeper
 --platform=linux/arm64 nacos/nacos-server
 --platform=linux/arm64 emqx/emqx
---platform=linux/arm64 apache/hadoop
