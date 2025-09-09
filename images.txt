@@ -1,6 +1,6 @@
-nginx
-redis
-#mysql
+#nginx
+#redis
+mysql
 #postgres
 #rabbitmq
 #zookeeper
