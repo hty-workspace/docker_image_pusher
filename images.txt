@@ -1,6 +1,6 @@
 #nginx
 #redis
-mysql
+mysql:5.7
 #postgres
 #rabbitmq
 #zookeeper
