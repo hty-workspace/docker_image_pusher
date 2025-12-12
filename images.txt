@@ -1,6 +1,7 @@
 #nginx
 #redis
-mysql:5.7
+#mysql:5.7
+alpine:latest
 #postgres
 #rabbitmq
 #zookeeper
